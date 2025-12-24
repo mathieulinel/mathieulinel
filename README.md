@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathieulinel, an analytics enginner/data analyst passionate about sustainability and managing our ressources responsibly.
 - 🏢 I have experience:
-  -  Building end-to-end data pipelines & OLAP DBs with Pub/Sub, Dataform, and dbt
+  -  Building end-to-end data pipelines & OLAP DBs (Dataform/dbt, and Pub/Sub & Cloud Run)
   -  Modelling data (Kimball & OBT)
   -  Manipulating data with python and SQL (postGRE and BigQuery)
   -  Visualising it with Looker, Hex or python
